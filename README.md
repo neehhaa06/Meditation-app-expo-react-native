@@ -59,12 +59,7 @@ Make sure you have the following installed on your machine:
 
     Git
     Node.js
-    npm (Node Package Manager)
-
-Cloning the Repository
-
-git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
-cd simple-meditation-app-expo-react-native
+    npm (Node Package Manage)
 
 Installation
 
